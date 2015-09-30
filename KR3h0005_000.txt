@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 書譜
-#+DATE: 2015-08-24 23:13:38.636092
-#+PROPERTY: ID KR3h0005
-#+PROPERTY: BASEEDITION WYG    
